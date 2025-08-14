@@ -1,3 +1,3 @@
 # ChessPrototype  
-ChessPrototype that has a few bugs  
-One of my biggest project so far!
+A chess prototype that has a few bugs  
+Made with Java, displayed in command line
